@@ -1,6 +1,6 @@
 # Quadratica
 
-Quadratica is a 8×14 bitmap font with good Unicode support.
+Quadratica is a 8×14 bitmap font with good Unicode coverage.
 
 It is a fork of the 14px wide version of [Gohufont](https://font.gohu.org/) by
 Hugo Chargois.
