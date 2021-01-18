@@ -53,6 +53,10 @@ Quadratica is available at the following mirrors:
 * https://git.sr.ht/~lyxell/quadratica
 * https://github.com/lyxell/quadratica
 
+## Similar projects
+
+* https://github.com/slavfox/Cozette
+
 ## License
 
 MIT
