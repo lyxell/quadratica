@@ -8,7 +8,7 @@ Hugo Chargois.
 ## Installing
 
 OTB and BDF versions of the font can be found
-[here](https://github.com/lyxell/quadratica/releases).
+[here](https://git.sr.ht/~lyxell/quadratica-bin/tree) for the time being.
 
 If you are running Linux but are unsure which format to pick you probably
 want the OTB version.
