@@ -33,7 +33,7 @@ To convert the BDF into an OTB you will need `fonttosfnt`.
 
 ## Contributing
 
-Contributions are welcome, especially for the following blocks:
+Contributions are welcome, especially in the following blocks:
 
 * [Arrows](https://en.wikipedia.org/wiki/Arrows_(Unicode_block)) (2190–21FF)
 * [Mathematical Operators](https://en.wikipedia.org/wiki/Mathematical_Operators_(Unicode_block)) (2200–22FF)
