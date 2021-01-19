@@ -2,8 +2,8 @@
 
 Quadratica is an 8×14 bitmap font with good Unicode coverage.
 
-It is a fork of the 14px wide version of [Gohufont](https://font.gohu.org/) by
-Hugo Chargois.
+It is a fork of the 14px version of [Gohufont](https://font.gohu.org/) by Hugo
+Chargois.
 
 ## Installing
 
