@@ -10,14 +10,7 @@ Chargois.
 OTB and BDF versions of the font can be found
 [here](https://git.sr.ht/~lyxell/quadratica-bin/tree) for the time being.
 
-If you are running Linux but are unsure which format to pick you probably
-want the OTB version.
-
-If you are running Debian (or Ubuntu) you will probably also need to remove
-the file `/etc/fonts/conf.d/70-no-bitmaps.conf` to allow fontconfig to
-recognize bitmap fonts.
-
-It is also possible to [build from source](#building).
+If you are running Debian (or Ubuntu), [make sure bitmap fonts are enabled](https://bugs.launchpad.net/ubuntu/+source/fontconfig/+bug/1560114).
 
 ## Adding or changing glyphs
 
