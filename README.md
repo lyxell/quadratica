@@ -48,8 +48,6 @@ Contributions are welcome, especially in the following blocks:
 
 ## Mirrors
 
-Quadratica is available at the following mirrors:
-
 * https://git.sr.ht/~lyxell/quadratica
 * https://github.com/lyxell/quadratica
 
